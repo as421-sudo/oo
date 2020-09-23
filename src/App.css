@@ -1,0 +1,16 @@
+p{
+  font-size: 10px;
+}
+li{
+font-size: 10px;
+}
+.container{
+  background-color:#FCF3CF ;
+}
+hr.style-one{
+  border:1px solid red;
+  background-color:red ;
+}
+.footer{
+  height: 60px;
+}
